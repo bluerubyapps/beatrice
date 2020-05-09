@@ -1,23 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//bluerubyapps.github.io/beatrice/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//beatricefood.tk/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://bluerubyapps.github.io/beatrice/post-sitemap.xml</loc>
+		<loc>https://beatricefood.tk/post-sitemap.xml</loc>
 		<lastmod>2020-05-09T00:36:24+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://bluerubyapps.github.io/beatrice/page-sitemap.xml</loc>
+		<loc>https://beatricefood.tk/page-sitemap.xml</loc>
 		<lastmod>2020-05-08T23:57:45+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://bluerubyapps.github.io/beatrice/category-sitemap.xml</loc>
+		<loc>https://beatricefood.tk/category-sitemap.xml</loc>
 		<lastmod>2020-05-09T00:36:24+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://bluerubyapps.github.io/beatrice/post_tag-sitemap.xml</loc>
+		<loc>https://beatricefood.tk/post_tag-sitemap.xml</loc>
 		<lastmod>2020-05-09T00:15:18+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://bluerubyapps.github.io/beatrice/author-sitemap.xml</loc>
+		<loc>https://beatricefood.tk/author-sitemap.xml</loc>
 		<lastmod>2020-05-07T03:06:06+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
